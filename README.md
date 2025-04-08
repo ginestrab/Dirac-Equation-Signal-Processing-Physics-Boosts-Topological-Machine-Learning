@@ -16,8 +16,11 @@ This repository contains the codes for Dirac-Equation Signal Processing (DESP) a
 This code is distributed by the authors in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 If you use any of these codes please cite the following papers:
+
 [1] Wang, R., Tian, Y., Liò, P., Bianconi, G. (2025) 'Dirac-Equation Signal Processing: Physics Boosts Topological Machine Learning
+
 [2] Calmon, L., Schaub, M.T. and Bianconi, G., 2023. Dirac signal processing of higher-order topological signals. New Journal of Physics, 25(9), p.093013.
+
 [3] Bianconi, G., (2021). The topological Dirac equation of networks and simplicial complexes. Journal of Physics: Complexity, 2(3), p.035022.
 
 # Content:
